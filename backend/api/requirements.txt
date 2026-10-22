@@ -180,7 +180,7 @@ pdf2image==1.17.0
 pdfminer.six==20231228
 pdfplumber==0.11.0; python_version >= '3.8'
 pikepdf==9.0.0
-pillow==10.3.0; python_version >= '3.8'
+pillow==13.0.0; python_version >= '3.8'
 pillow-heif==0.16.0
 platformdirs==4.2.2; python_version >= '3.8'
 playwright==1.44.0; python_version >= '3.8'
